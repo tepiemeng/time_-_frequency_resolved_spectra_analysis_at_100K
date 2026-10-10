@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated paper."
+title: "kCN 100 K wavelength-dependent pump-probe analysis"
+type: software
+authors:
+  - family-names: Tepie
+    given-names: M.
+references:
+  - type: article
+    title: "Photoinduced frustration modulation in κ-type quantum spin liquid candidates"
+    authors:
+      - family-names: Tepie
+        given-names: M.
+      - family-names: Glerean
+        given-names: F.
+      - family-names: Mitrano
+        given-names: M.
+    journal: Physical Review B
+    volume: "112"
+    pages: L140401
+    year: 2025
+    doi: 10.1103/clxp-z2g5

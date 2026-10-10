@@ -1,10 +1,10 @@
 # kCN 100 K wavelength-dependent pump–probe analysis
 
-Analysis code for the **100 K mid-infrared pump-wavelength/frequency-dependent transient-reflectivity measurements** of insulating κ-(BEDT-TTF)₂Cu₂(CN)₃ (kCN), measured on **26 October 2023**. This repository accompanies:
+Analysis code for the **100 K mid-infrared pump-wavelength/frequency-dependent transient_time-resolved-reflectivity measurements** of insulating κ-(BEDT-TTF)₂Cu₂(CN)₃ (kCN), measured on **26 October 2023**. This repository accompanies:
 
 > M. Tepie *et al.*, “Photoinduced frustration modulation in κ-type quantum spin liquid candidates,” *Physical Review B* **112**, L140401 (2025). https://doi.org/10.1103/clxp-z2g5
 
-**Scope:** This is the analysis of one 100 K wavelength-dependent kCN dataset, **not** the complete data and code for every figure in the paper.
+**Scope:** This is the partial analysis of one 100 K wavelength-dependent kCN dataset, **not** the complete data and code for every figure in the paper.
 
 ## Contents
 
